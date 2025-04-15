@@ -4,4 +4,5 @@ def lambda_handler(event, context):
     data={'ID':[1,2],'Name':['Naveen','Kumar']}
     df=pd.DataFrame(data)
     print(df)
-    print('Done 1.0')
+    Print('Done 1.0')
+
